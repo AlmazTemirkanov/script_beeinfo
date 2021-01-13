@@ -80,11 +80,11 @@ WSGI_APPLICATION = 'main.wsgi.application'
 
 DATABASES = {
     'default': {
-        'NAME': 'beeinfo_script',
+        'NAME': 'beeinfo',
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'USER': 'commercial_projects_user',
-        'PASSWORD': 'jcnP@8Yz',
-        'HOST': '127.0.0.1',
+        'USER': 'beeinfo_user',
+        'PASSWORD': 'p8NJLyw4e7dLJpg4',
+        'HOST': 'beeinfo_script_db_1',
         'PORT': 5432,
     },
 }

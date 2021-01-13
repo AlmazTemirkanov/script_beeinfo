@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+virtualenv/
+.vscode/
+.idea/
+settings_local.py
+.Dockerfile.swp
+*.pyc
+*.sqlite3
+*~
